@@ -1,0 +1,1 @@
+No. of Workers	Includes direct and indirect labor								Gary	Frankfurt	Mexico	SunchemJanuary 	58	83	45	31February	57	86	45	31March 	58	87	45	31April	59	88	45	31May	57	90	45	31June	58	90	45	31July	56	89	45	31August	58	87	45	31September	58	85	45	31October	60	85	45	31November	58	83	45	31December	59	84	45	31

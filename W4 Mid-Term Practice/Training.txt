@@ -1,0 +1,12 @@
+Average training cost per employee in each department by different salary categories 			
+	high	medium	low
+accounting	2000	1000	1000
+hr	1300	900	500
+IT	4000	2000	1000
+management	2000	1000	300
+marketing	4000	3000	600
+product_mng	3000	2000	1000
+RandD	2000	2000	1000
+sales	5000	2000	500
+support	3000	1000	300
+technical	4000	2000	1000

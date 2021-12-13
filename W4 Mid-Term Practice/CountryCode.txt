@@ -1,0 +1,264 @@
+Region	Country Code	IncomeGroup
+East Asia & Pacific	ASM	Upper middle income
+East Asia & Pacific	AUS	High income
+East Asia & Pacific	BRN	High income
+East Asia & Pacific	CHN	Upper middle income
+East Asia & Pacific	FJI	Upper middle income
+East Asia & Pacific	FSM	Lower middle income
+East Asia & Pacific	GUM	High income
+East Asia & Pacific	HKG	High income
+East Asia & Pacific	IDN	Lower middle income
+East Asia & Pacific	JPN	High income
+East Asia & Pacific	KHM	Lower middle income
+East Asia & Pacific	KIR	Lower middle income
+East Asia & Pacific	KOR	High income
+East Asia & Pacific	LAO	Lower middle income
+East Asia & Pacific	MAC	High income
+East Asia & Pacific	MHL	Upper middle income
+East Asia & Pacific	MMR	Lower middle income
+East Asia & Pacific	MNG	Lower middle income
+East Asia & Pacific	MNP	High income
+East Asia & Pacific	MYS	Upper middle income
+East Asia & Pacific	NCL	High income
+East Asia & Pacific	NRU	High income
+East Asia & Pacific	NZL	High income
+East Asia & Pacific	PHL	Lower middle income
+East Asia & Pacific	PLW	Upper middle income
+East Asia & Pacific	PNG	Lower middle income
+East Asia & Pacific	PRK	Low income
+East Asia & Pacific	PYF	High income
+East Asia & Pacific	SGP	High income
+East Asia & Pacific	SLB	Lower middle income
+East Asia & Pacific	THA	Upper middle income
+East Asia & Pacific	TLS	Lower middle income
+East Asia & Pacific	TON	Lower middle income
+East Asia & Pacific	TUV	Upper middle income
+East Asia & Pacific	VNM	Lower middle income
+East Asia & Pacific	VUT	Lower middle income
+East Asia & Pacific	WSM	Lower middle income
+Europe & Central Asia	ALB	Upper middle income
+Europe & Central Asia	AND	High income
+Europe & Central Asia	ARM	Lower middle income
+Europe & Central Asia	AUT	High income
+Europe & Central Asia	AZE	Upper middle income
+Europe & Central Asia	BEL	High income
+Europe & Central Asia	BGR	Upper middle income
+Europe & Central Asia	BIH	Upper middle income
+Europe & Central Asia	BLR	Upper middle income
+Europe & Central Asia	CHE	High income
+Europe & Central Asia	CHI	High income
+Europe & Central Asia	CYP	High income
+Europe & Central Asia	CZE	High income
+Europe & Central Asia	DEU	High income
+Europe & Central Asia	DNK	High income
+Europe & Central Asia	ESP	High income
+Europe & Central Asia	EST	High income
+Europe & Central Asia	FIN	High income
+Europe & Central Asia	FRA	High income
+Europe & Central Asia	FRO	High income
+Europe & Central Asia	GBR	High income
+Europe & Central Asia	GEO	Upper middle income
+Europe & Central Asia	GIB	High income
+Europe & Central Asia	GRC	High income
+Europe & Central Asia	GRL	High income
+Europe & Central Asia	HRV	High income
+Europe & Central Asia	HUN	High income
+Europe & Central Asia	IMN	High income
+Europe & Central Asia	IRL	High income
+Europe & Central Asia	ISL	High income
+Europe & Central Asia	ITA	High income
+Europe & Central Asia	KAZ	Upper middle income
+Europe & Central Asia	KGZ	Lower middle income
+Europe & Central Asia	KSV	Lower middle income
+Europe & Central Asia	LIE	High income
+Europe & Central Asia	LTU	High income
+Europe & Central Asia	LUX	High income
+Europe & Central Asia	LVA	High income
+Europe & Central Asia	MCO	High income
+Europe & Central Asia	MDA	Lower middle income
+Europe & Central Asia	MKD	Upper middle income
+Europe & Central Asia	MNE	Upper middle income
+Europe & Central Asia	NLD	High income
+Europe & Central Asia	NOR	High income
+Europe & Central Asia	POL	High income
+Europe & Central Asia	PRT	High income
+Europe & Central Asia	ROU	Upper middle income
+Europe & Central Asia	RUS	Upper middle income
+Europe & Central Asia	SMR	High income
+Europe & Central Asia	SRB	Upper middle income
+Europe & Central Asia	SVK	High income
+Europe & Central Asia	SVN	High income
+Europe & Central Asia	SWE	High income
+Europe & Central Asia	TJK	Lower middle income
+Europe & Central Asia	TKM	Upper middle income
+Europe & Central Asia	TUR	Upper middle income
+Europe & Central Asia	UKR	Lower middle income
+Europe & Central Asia	UZB	Lower middle income
+Latin America & Caribbean	ABW	High income
+Latin America & Caribbean	ARG	Upper middle income
+Latin America & Caribbean	ATG	High income
+Latin America & Caribbean	BHS	High income
+Latin America & Caribbean	BLZ	Upper middle income
+Latin America & Caribbean	BOL	Lower middle income
+Latin America & Caribbean	BRA	Upper middle income
+Latin America & Caribbean	BRB	High income
+Latin America & Caribbean	CHL	High income
+Latin America & Caribbean	COL	Upper middle income
+Latin America & Caribbean	CRI	Upper middle income
+Latin America & Caribbean	CUB	Upper middle income
+Latin America & Caribbean	CUW	High income
+Latin America & Caribbean	CYM	High income
+Latin America & Caribbean	DMA	Upper middle income
+Latin America & Caribbean	DOM	Upper middle income
+Latin America & Caribbean	ECU	Upper middle income
+Latin America & Caribbean	GRD	Upper middle income
+Latin America & Caribbean	GTM	Lower middle income
+Latin America & Caribbean	GUY	Upper middle income
+Latin America & Caribbean	HND	Lower middle income
+Latin America & Caribbean	HTI	Low income
+Latin America & Caribbean	JAM	Upper middle income
+Latin America & Caribbean	KNA	High income
+Latin America & Caribbean	LCA	Upper middle income
+Latin America & Caribbean	MAF	High income
+Latin America & Caribbean	MEX	Upper middle income
+Latin America & Caribbean	NIC	Lower middle income
+Latin America & Caribbean	PAN	Upper middle income
+Latin America & Caribbean	PER	Upper middle income
+Latin America & Caribbean	PRI	High income
+Latin America & Caribbean	PRY	Upper middle income
+Latin America & Caribbean	SLV	Lower middle income
+Latin America & Caribbean	SUR	Upper middle income
+Latin America & Caribbean	SXM	High income
+Latin America & Caribbean	TCA	High income
+Latin America & Caribbean	TTO	High income
+Latin America & Caribbean	URY	High income
+Latin America & Caribbean	VCT	Upper middle income
+Latin America & Caribbean	VEN	Upper middle income
+Latin America & Caribbean	VGB	High income
+Latin America & Caribbean	VIR	High income
+Middle East & North Africa	ARE	High income
+Middle East & North Africa	BHR	High income
+Middle East & North Africa	DJI	Lower middle income
+Middle East & North Africa	DZA	Upper middle income
+Middle East & North Africa	EGY	Lower middle income
+Middle East & North Africa	IRN	Upper middle income
+Middle East & North Africa	IRQ	Upper middle income
+Middle East & North Africa	ISR	High income
+Middle East & North Africa	JOR	Upper middle income
+Middle East & North Africa	KWT	High income
+Middle East & North Africa	LBN	Upper middle income
+Middle East & North Africa	LBY	Upper middle income
+Middle East & North Africa	MAR	Lower middle income
+Middle East & North Africa	MLT	High income
+Middle East & North Africa	OMN	High income
+Middle East & North Africa	PSE	Lower middle income
+Middle East & North Africa	QAT	High income
+Middle East & North Africa	SAU	High income
+Middle East & North Africa	SYR	Lower middle income
+Middle East & North Africa	TUN	Lower middle income
+Middle East & North Africa	YEM	Lower middle income
+North America	BMU	High income
+North America	CAN	High income
+North America	USA	High income
+South Asia	AFG	Low income
+South Asia	BGD	Lower middle income
+South Asia	BTN	Lower middle income
+South Asia	IND	Lower middle income
+South Asia	LKA	Lower middle income
+South Asia	MDV	Upper middle income
+South Asia	NPL	Low income
+South Asia	PAK	Lower middle income
+Sub-Saharan Africa	AGO	Upper middle income
+Sub-Saharan Africa	BDI	Low income
+Sub-Saharan Africa	BEN	Low income
+Sub-Saharan Africa	BFA	Low income
+Sub-Saharan Africa	BWA	Upper middle income
+Sub-Saharan Africa	CAF	Low income
+Sub-Saharan Africa	CIV	Lower middle income
+Sub-Saharan Africa	CMR	Lower middle income
+Sub-Saharan Africa	COD	Low income
+Sub-Saharan Africa	COG	Lower middle income
+Sub-Saharan Africa	COM	Low income
+Sub-Saharan Africa	CPV	Lower middle income
+Sub-Saharan Africa	ERI	Low income
+Sub-Saharan Africa	ETH	Low income
+Sub-Saharan Africa	GAB	Upper middle income
+Sub-Saharan Africa	GHA	Lower middle income
+Sub-Saharan Africa	GIN	Low income
+Sub-Saharan Africa	GMB	Low income
+Sub-Saharan Africa	GNB	Low income
+Sub-Saharan Africa	GNQ	Upper middle income
+Sub-Saharan Africa	KEN	Lower middle income
+Sub-Saharan Africa	LBR	Low income
+Sub-Saharan Africa	LSO	Lower middle income
+Sub-Saharan Africa	MDG	Low income
+Sub-Saharan Africa	MLI	Low income
+Sub-Saharan Africa	MOZ	Low income
+Sub-Saharan Africa	MRT	Lower middle income
+Sub-Saharan Africa	MUS	Upper middle income
+Sub-Saharan Africa	MWI	Low income
+Sub-Saharan Africa	NAM	Upper middle income
+Sub-Saharan Africa	NER	Low income
+Sub-Saharan Africa	NGA	Lower middle income
+Sub-Saharan Africa	RWA	Low income
+Sub-Saharan Africa	SDN	Lower middle income
+Sub-Saharan Africa	SEN	Low income
+Sub-Saharan Africa	SLE	Low income
+Sub-Saharan Africa	SOM	Low income
+Sub-Saharan Africa	SSD	Low income
+Sub-Saharan Africa	STP	Lower middle income
+Sub-Saharan Africa	SWZ	Lower middle income
+Sub-Saharan Africa	SYC	High income
+Sub-Saharan Africa	TCD	Low income
+Sub-Saharan Africa	TGO	Low income
+Sub-Saharan Africa	TZA	Low income
+Sub-Saharan Africa	UGA	Low income
+Sub-Saharan Africa	ZAF	Upper middle income
+Sub-Saharan Africa	ZMB	Lower middle income
+Sub-Saharan Africa	ZWE	Low income
+	ARB	
+	CEB	
+	CSS	
+	EAP	
+	EAR	
+	EAS	
+	ECA	
+	ECS	
+	EMU	
+	EUU	
+	FCS	
+	HIC	
+	HPC	
+	IBD	
+	IBT	
+	IDA	
+	IDB	
+	IDX	
+	LAC	
+	LCN	
+	LDC	
+	LIC	
+	LMC	
+	LMY	
+	LTE	
+	MEA	
+	MIC	
+	MNA	
+	NAC	
+	OED	
+	OSS	
+	PRE	
+	PSS	
+	PST	
+	SAS	
+	SSA	
+	SSF	
+	SST	
+	TEA	
+	TEC	
+	TLA	
+	TMN	
+	TSA	
+	TSS	
+	UMC	
+	WLD	
